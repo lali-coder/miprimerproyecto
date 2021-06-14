@@ -1,2 +1,6 @@
 pablito clavo un clavito
 un clavito pablito clavo
+---------------------------
+Desarrollar funcionalidad completa de envio de whatsapp y correo electrónico
+Así como también, generación de pdf de la boleta del cliente.
+Funcionalidad extra, yapita o valor agregado.
